@@ -4,6 +4,7 @@ Pre-requisite
 - Node.js (Download and installation details are available at https://nodejs.orgs)
 - Install dependencies from the package.json file by using the following command
 - npm install
+
 Start local app
 ===============
 - node app.local.js
