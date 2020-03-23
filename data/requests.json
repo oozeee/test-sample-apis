@@ -1,0 +1,46 @@
+[
+    {
+        "id": "TEST-ACC-REQ-0000765",
+        "request": {
+                "accountname": "ac-01-test",
+                "accountType": "OLD",
+                "enable": true,
+                "accountowner": "Ronaldo",
+                "additionalinforamtion": "Account request for testing purpose"
+            }, 
+        "status": "Submitted"
+    },
+    {
+        "id": "TEST-ACC-REQ-0000755",
+        "request": {
+            "accountname": "ac-01-prod",
+            "accountType": "OLD",
+            "enable": true,
+            "accountowner": "Ronaldo",
+            "additionalinforamtion": "Production account"
+        }, 
+        "status": "Completed"
+    },
+    {
+        "id": "TEST-ACC-REQ-0000712",
+        "request": {
+            "accountname": "ac-55-test",
+            "accountType": "NEW",
+            "enable": true,
+            "accountowner": "Bale",
+            "additionalinforamtion": "Test account to be used during SIT"
+        }, 
+        "status": "Completed"
+    },
+    {
+        "id": "TEST-ACC-REQ-0000639",
+        "request": {
+            "accountname": "ac-64-prod",
+            "accountType": "OLD",
+            "enable": false,
+            "accountowner": "Ronaldo",
+            "additionalinforamtion": "Prod account with admin privileges"
+        }, 
+        "status": "Completed"
+    }
+]

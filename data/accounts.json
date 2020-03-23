@@ -1,0 +1,26 @@
+[
+    {
+        "id": "TEST-ACC-0000111",
+        "accountname": "ac-01-prod",
+        "accountType": "OLD",
+        "enable": true,
+        "accountowner": "Ronaldo", 
+        "status": "Active"
+    },
+    {
+        "id": "TEST-ACC-0000897",
+        "accountname": "ac-55-test",
+        "accountType": "NEW",
+        "enable": true,
+        "accountowner": "Bale", 
+        "status": "Active"
+    },
+    {
+        "id": "TEST-ACC-0000675",
+        "accountname": "ac-64-prod",
+        "accountType": "OLD",
+        "enable": false,
+        "accountowner": "Ronaldo", 
+        "status": "Active"
+    }
+]
